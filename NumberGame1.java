@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class NumberGame@ {
+public class NumberGame1 {
     
     // Main method that starts the game
     public static void main(String[] args) {
